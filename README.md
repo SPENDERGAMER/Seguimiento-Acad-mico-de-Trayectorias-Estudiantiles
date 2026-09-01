@@ -54,9 +54,7 @@ SQL — Data storage and database management
 
 Git / GitHub — Version control and project management
 
-Dashboard technology — [Add technology here, e.g., Power BI, Tableau, Streamlit, etc.]
-
-Update this section as the project develops and only include technologies that are actually used in the implementation.
+Dashboard technology 
 
 Current Development
 
@@ -78,7 +76,7 @@ Working with the academic program director to align the system with real operati
 
 Stakeholder Collaboration
 
-This project is being developed in direct collaboration with an academic program director.
+This project is being developed in direct collaboration with an academic program director Leonardo Ledesma Domínguez and a coworker Gabriela Labra Sánchez
 
 The development process involves translating academic follow-up needs into technical and data requirements, with the goal of creating a solution that is useful in an actual academic environment rather than only as an academic exercise.
 
@@ -94,7 +92,11 @@ Status: In development
 
 This repository will be updated as new components of the system are implemented.
 
+Author
 
+Arturo Cervantes
+
+Data Science and Mathematics Student
 Tecnológico de Monterrey
 
 GitHub: https://github.com/SPENDERGAMER
