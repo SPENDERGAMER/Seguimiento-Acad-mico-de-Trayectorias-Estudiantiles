@@ -1,0 +1,319 @@
+{
+  "clave_programa": "ICT26",
+  "nombre_programa": "Computación e Inteligencia Artificial / Exploración",
+  "plan": 2026,
+  "cip_programa": "110103",
+  "semestres": [
+    {
+      "nombre": "Semestre de Introducción",
+      "unidades_formacion": [
+        {
+          "clave": "VA1005",
+          "descripcion": "Unidades de formación de introducción",
+          "CL": 24,
+          "L": 0,
+          "CA": 18,
+          "UDC": 24,
+          "semanas_activas": [],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        }
+      ]
+    },
+    {
+      "nombre": "Primer Semestre",
+      "unidades_formacion": [
+        {
+          "clave": "EG1006",
+          "descripcion": "Optativa de matemáticas y ciencias",
+          "CL": 3,
+          "L": 0,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        },
+        {
+          "clave": "F1025B",
+          "descripcion": "Leyes del movimiento y de conservación",
+          "CL": 9,
+          "L": 1,
+          "CA": 6,
+          "UDC": 6,
+          "semanas_activas": [
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "400801",
+          "cip_disciplina": "Física"
+        },
+        {
+          "clave": "H1007S",
+          "descripcion": "Inducción al servicio social",
+          "CL": 15,
+          "L": 0,
+          "CA": 1,
+          "UDC": 1,
+          "semanas_activas": [],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "240103",
+          "cip_disciplina": "Humanidades/Estudios Humanísticos"
+        },
+        {
+          "clave": "MA1003B",
+          "descripcion": "Perspectivas innovadoras en ingeniería",
+          "CL": 9,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5"
+          ],
+          "requisitos": null,
+          "equivalencias": [
+            "F1001B"
+          ],
+          "competencias": [],
+          "cip_codigo": "270101",
+          "cip_disciplina": "Matemáticas"
+        },
+        {
+          "clave": "MA1054",
+          "descripcion": "Cálculo diferencial e integral",
+          "CL": 3,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "270101",
+          "cip_disciplina": "Matemáticas"
+        },
+        {
+          "clave": "STEC1101S",
+          "descripcion": "Semana tec optativa I",
+          "CL": 15,
+          "L": 0,
+          "CA": 1,
+          "UDC": 1,
+          "semanas_activas": [],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        },
+        {
+          "clave": "TC1038",
+          "descripcion": "Fundamentos de programación",
+          "CL": 3,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [
+            "TC1029"
+          ],
+          "competencias": [],
+          "cip_codigo": "110101",
+          "cip_disciplina": "Ciencias Computacionales/de Información"
+        }
+      ]
+    },
+    {
+      "nombre": "Segundo Semestre",
+      "unidades_formacion": [
+        {
+          "clave": "EG1007",
+          "descripcion": "Optativa de humanidades y bellas artes",
+          "CL": 3,
+          "L": 0,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        },
+        {
+          "clave": "HI1034",
+          "descripcion": "Inglés académico",
+          "CL": 3,
+          "L": 0,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": "Nivel de inglés de MCER Nivel B1",
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "131401",
+          "cip_disciplina": "Enseñanza del Inglés como Segunda Lengua"
+        },
+        {
+          "clave": "MA1004B",
+          "descripcion": "Estadística y manejo de datos",
+          "CL": 9,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 7-11"
+          ],
+          "requisitos": "Haber Cursado MA1054",
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "270501",
+          "cip_disciplina": "Estadística"
+        },
+        {
+          "clave": "MA1005B",
+          "descripcion": "Álgebra matricial y métodos numéricos",
+          "CL": 9,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 13-17"
+          ],
+          "requisitos": "(Haber Aprobado MA1054 )",
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "270101",
+          "cip_disciplina": "Matemáticas"
+        },
+        {
+          "clave": "MA1055",
+          "descripcion": "Cálculo multivariable",
+          "CL": 3,
+          "L": 1,
+          "CA": 1,
+          "UDC": 1,
+          "semanas_activas": [
+            "Semana 1-5"
+          ],
+          "requisitos": "Haber Aprobado MA1054",
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "270101",
+          "cip_disciplina": "Matemáticas"
+        },
+        {
+          "clave": "MA1057",
+          "descripcion": "Matemáticas discretas",
+          "CL": 3,
+          "L": 1,
+          "CA": 2,
+          "UDC": 2,
+          "semanas_activas": [
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "270101",
+          "cip_disciplina": "Matemáticas"
+        },
+        {
+          "clave": "STEC1102S",
+          "descripcion": "Semana tec optativa II",
+          "CL": 15,
+          "L": 0,
+          "CA": 1,
+          "UDC": 1,
+          "semanas_activas": [],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        },
+        {
+          "clave": "STEC1103S",
+          "descripcion": "Semana tec optativa III",
+          "CL": 15,
+          "L": 0,
+          "CA": 1,
+          "UDC": 1,
+          "semanas_activas": [],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        },
+        {
+          "clave": "TC1039",
+          "descripcion": "Programación orientada a objetos",
+          "CL": 3,
+          "L": 1,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5",
+            "Semana 7-11",
+            "Semana 13-17"
+          ],
+          "requisitos": "Haber Aprobado TC1038",
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "110101",
+          "cip_disciplina": "Ciencias Computacionales/de Información"
+        },
+        {
+          "clave": "VA1002B",
+          "descripcion": "Optativa de exploración disciplinar",
+          "CL": 9,
+          "L": 0,
+          "CA": 3,
+          "UDC": 3,
+          "semanas_activas": [
+            "Semana 1-5"
+          ],
+          "requisitos": null,
+          "equivalencias": [],
+          "competencias": [],
+          "cip_codigo": "000000",
+          "cip_disciplina": "Indefinido"
+        }
+      ]
+    }
+  ]
+}
